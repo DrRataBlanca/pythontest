@@ -1,0 +1,4 @@
+
+  http://127.0.0.1:8000/  admin/        user : raton password:1234
+  http://127.0.0.1:8000/  save_bike_data/   guarda la data de la api entregada
+  http://127.0.0.1:8000/  bike-stations/     muestra la data
