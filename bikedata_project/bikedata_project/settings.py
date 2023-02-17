@@ -78,9 +78,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'info_bikes',
-        'USER': 'biker',
-        'PASSWORD': '12345678',
-        'HOST': 'localhost',
+        'USER': 'postgres',
+        'PASSWORD': 'contra12345',
+        'HOST': '127.0.0.1',
         'PORT': '',
     }
 }
